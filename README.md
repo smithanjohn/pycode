@@ -5,3 +5,7 @@ as a part of my day job and will start publishing the general automations which 
 
 ## Git Structure
 
+            .
+            ├── README.md
+            ├── aws-automations
+            
