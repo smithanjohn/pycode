@@ -35,5 +35,5 @@ as a part of my day job and will start publishing the general automations which 
       ⌛  Creating S3 Bucket: testsjohn4-test-us-west-2-301532132469
          Created S3 Bucket: testsjohn4-test-us-west-2-301532132469
 
-PS: Please feel free to add PR's in case you would want to see some changes. Also raise an issue if you want to see some 
-additional features.
+_PS: Please feel free to add PR's in case you would want to see some changes. Also raise an issue if you want to see some 
+additional features._
