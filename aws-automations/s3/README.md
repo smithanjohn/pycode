@@ -11,7 +11,9 @@ as a part of my day job and will start publishing the general automations which 
 
 
       $ pip3.6 install -r requirements.txt 
-            
+
+
+###### Export AWS credentials: https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html       
             
 ###### Run the Automation
 
