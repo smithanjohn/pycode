@@ -36,6 +36,10 @@ as a part of my day job and will start publishing the general automations which 
       $  python3 standardizes3bucketcreation.py -a testsjohn4 -r us-west-2 -e test -p gw-ppd
       ⌛  Creating S3 Bucket: testsjohn4-test-us-west-2-301532132469
          Created S3 Bucket: testsjohn4-test-us-west-2-301532132469
+        
+
+The S3 bucket with the mentioned naming format must be created.
 
 _PS: Please feel free to add PR's in case you would want to see some changes. Also raise an issue if you want to see some 
 additional features._
+
